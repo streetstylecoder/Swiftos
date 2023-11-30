@@ -1,0 +1,12 @@
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.csproj.AssemblyReference.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.AssemblyInfoInputs.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.AssemblyInfo.cs
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\NclearOS.deps.json
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\NclearOS.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\NclearOS.pdb
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\refint\NclearOS.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\NclearOS.pdb
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\ref\NclearOS.dll

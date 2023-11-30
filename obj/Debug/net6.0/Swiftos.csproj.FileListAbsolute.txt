@@ -1,0 +1,12 @@
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\Swiftos.deps.json
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\Swiftos.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\bin\Debug\net6.0\Swiftos.pdb
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.csproj.AssemblyReference.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.AssemblyInfoInputs.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.AssemblyInfo.cs
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\refint\Swiftos.dll
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\Swiftos.pdb
+C:\Users\Harsh Dhariwal\source\repos\NclearOS\NclearOS\obj\Debug\net6.0\ref\Swiftos.dll

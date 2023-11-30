@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNOSl/RJE6W3oraUkc06ZWKxnRFhxh1XnoSs3yQZCQd5lrthPou65QPE8WBJnBTP4DLgdmJ/lfs7LQpmZxEmPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harsh Dhariwal\\source\\repos\\NclearOS\\NclearOS\\Swiftos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Harsh Dhariwal\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+  ],
+  "logs": []
+}
